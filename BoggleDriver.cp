@@ -2,11 +2,8 @@
 // Author: Edward Goode
 // userid: goodees
 // Email: edward.s.goode@gmail.com
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number: project10
 // Description:  Main driver for solving Boggle game
-// Honor statement: Honor Above All
-// Last Changed: 12/07/2015
+
 
 #include<iostream>
 #include "Boggle.h"

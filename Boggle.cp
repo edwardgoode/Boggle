@@ -2,13 +2,9 @@
 // Author: Edward Goode
 // userid: goodees
 // Email: edward.s.goode@gmail.com
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number: project10
 // Description:  .cpp file for Boggle which defines a
 //				class that provides support for solving
 //				the boggle game.
-// Honor statement: Honor Above All
-// Last Changed: 12/07/2015
 
 #include <cstddef>
 #include <fstream>
